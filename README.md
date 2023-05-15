@@ -8,5 +8,6 @@ I'm Dinma, a software developer who is passionate about writing code, solving pr
 - 👯 I’m looking for a software development job oppurtunity. 
 - 📫 How to reach me: Kindly click this links 👉 [LinkedIn](https://www.linkedin.com/in/chidinma-faith-544777200/) 🌐 [Twitter](https://twitter.com/p_phayte)
 - 🔭 Email Address: phaytep@gmail.com
+-❗Notice - Here is my previous github 👉 [link](https://github.com/Dinma-Faith-zz)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Dinma-Faith&show_icons=true)
